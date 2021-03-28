@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\bin\Debug\netcoreapp3.1\MultiplyBigNum.exe
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\bin\Debug\netcoreapp3.1\MultiplyBigNum.deps.json
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\bin\Debug\netcoreapp3.1\MultiplyBigNum.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\bin\Debug\netcoreapp3.1\MultiplyBigNum.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\bin\Debug\netcoreapp3.1\MultiplyBigNum.dll
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\bin\Debug\netcoreapp3.1\MultiplyBigNum.pdb
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.dll
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.pdb
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\MultiplyBigNum\obj\Debug\netcoreapp3.1\MultiplyBigNum.genruntimeconfig.cache

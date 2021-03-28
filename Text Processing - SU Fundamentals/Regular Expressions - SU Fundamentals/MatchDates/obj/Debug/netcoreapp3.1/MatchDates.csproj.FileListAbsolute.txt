@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.exe
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.deps.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.genruntimeconfig.cache

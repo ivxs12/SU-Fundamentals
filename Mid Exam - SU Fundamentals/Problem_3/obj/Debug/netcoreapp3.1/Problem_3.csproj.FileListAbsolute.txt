@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\bin\Debug\netcoreapp3.1\Problem_3.exe
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\bin\Debug\netcoreapp3.1\Problem_3.deps.json
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\bin\Debug\netcoreapp3.1\Problem_3.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\bin\Debug\netcoreapp3.1\Problem_3.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\bin\Debug\netcoreapp3.1\Problem_3.dll
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\bin\Debug\netcoreapp3.1\Problem_3.pdb
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.dll
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.pdb
+C:\Users\ivxs2\source\repos\Mid Exam - SU Fundamentals\Problem_3\obj\Debug\netcoreapp3.1\Problem_3.genruntimeconfig.cache

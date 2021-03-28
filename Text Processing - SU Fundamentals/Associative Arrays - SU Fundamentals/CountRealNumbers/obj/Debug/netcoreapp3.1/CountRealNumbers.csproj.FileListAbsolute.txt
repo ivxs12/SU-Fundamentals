@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.exe
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.deps.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.dll
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.pdb
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.dll
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.pdb
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.genruntimeconfig.cache

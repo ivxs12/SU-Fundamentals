@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\bin\Debug\netcoreapp3.1\Furniture.exe
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\bin\Debug\netcoreapp3.1\Furniture.deps.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\bin\Debug\netcoreapp3.1\Furniture.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\bin\Debug\netcoreapp3.1\Furniture.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\Furniture\obj\Debug\netcoreapp3.1\Furniture.genruntimeconfig.cache

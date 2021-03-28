@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.exe
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.deps.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.dll
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.pdb
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.dll
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.pdb
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.genruntimeconfig.cache

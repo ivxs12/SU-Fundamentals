@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.genruntimeconfig.cache

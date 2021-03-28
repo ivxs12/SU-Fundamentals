@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache

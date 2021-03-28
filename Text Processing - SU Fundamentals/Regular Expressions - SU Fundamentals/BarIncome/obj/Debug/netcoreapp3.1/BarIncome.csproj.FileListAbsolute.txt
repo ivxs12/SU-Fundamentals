@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\bin\Debug\netcoreapp3.1\BarIncome.exe
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\bin\Debug\netcoreapp3.1\BarIncome.deps.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\bin\Debug\netcoreapp3.1\BarIncome.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\bin\Debug\netcoreapp3.1\BarIncome.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\bin\Debug\netcoreapp3.1\BarIncome.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\bin\Debug\netcoreapp3.1\BarIncome.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\BarIncome\obj\Debug\netcoreapp3.1\BarIncome.genruntimeconfig.cache

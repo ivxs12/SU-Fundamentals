@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.exe
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.deps.json
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.dll
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.pdb
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.dll
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.pdb
+C:\Users\ivxs2\source\repos\Text Processing - SU Fundamentals\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.genruntimeconfig.cache

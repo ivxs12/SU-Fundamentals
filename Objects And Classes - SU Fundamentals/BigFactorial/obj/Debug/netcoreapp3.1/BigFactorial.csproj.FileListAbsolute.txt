@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.genruntimeconfig.cache

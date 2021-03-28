@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.exe
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.deps.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.dll
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.pdb
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.dll
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.pdb
+C:\Users\ivxs2\source\repos\Associative Arrays - SU Fundamentals\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.genruntimeconfig.cache

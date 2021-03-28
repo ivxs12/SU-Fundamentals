@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.exe
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.deps.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.dll
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.pdb
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.dll
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.pdb
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.genruntimeconfig.cache

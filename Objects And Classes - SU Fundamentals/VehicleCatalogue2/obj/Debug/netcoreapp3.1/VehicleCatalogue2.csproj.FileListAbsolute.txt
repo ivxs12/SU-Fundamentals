@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\bin\Debug\netcoreapp3.1\VehicleCatalogue2.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\VehicleCatalogue2\obj\Debug\netcoreapp3.1\VehicleCatalogue2.genruntimeconfig.cache

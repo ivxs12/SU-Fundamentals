@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.exe
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.deps.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.dll
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.pdb
+C:\Users\ivxs2\source\repos\Regular Expressions - SU Fundamentals\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.genruntimeconfig.cache

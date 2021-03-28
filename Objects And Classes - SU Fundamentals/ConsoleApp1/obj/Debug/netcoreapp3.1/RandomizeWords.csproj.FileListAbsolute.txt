@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\RandomizeWords.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\RandomizeWords.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\RandomizeWords.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\RandomizeWords.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\RandomizeWords.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.exe
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.deps.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.dll
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.pdb
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.dll
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.pdb
+C:\Users\ivxs2\source\repos\Bitwise Operations - SU Fundamentals\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.genruntimeconfig.cache

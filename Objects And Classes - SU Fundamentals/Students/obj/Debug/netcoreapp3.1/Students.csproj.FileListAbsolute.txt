@@ -1,0 +1,12 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\bin\Debug\netcoreapp3.1\Students.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\bin\Debug\netcoreapp3.1\Students.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\bin\Debug\netcoreapp3.1\Students.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\bin\Debug\netcoreapp3.1\Students.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\obj\Debug\netcoreapp3.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\obj\Debug\netcoreapp3.1\Students.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\obj\Debug\netcoreapp3.1\Students.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Students\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache

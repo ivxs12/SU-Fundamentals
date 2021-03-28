@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.exe
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.deps.json
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.pdb
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.pdb
+C:\Users\ivxs2\source\repos\Data Types and Variables - Lab\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.genruntimeconfig.cache

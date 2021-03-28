@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\ivxs2\source\repos\Objects And Classes - SU Fundamentals\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache
